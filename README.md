@@ -1,8 +1,3 @@
-# include <iostream>
+Here i will be developing my first Open Source Software, i hope you all will like and support me.
 
-using namspace std;
-int main() 
-{
-   cout <<"Hello World"<<endl;
-   return 0;
-}
+I will be developing an AI application using C++.
